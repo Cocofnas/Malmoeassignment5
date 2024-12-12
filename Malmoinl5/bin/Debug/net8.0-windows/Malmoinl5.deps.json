@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Malmoinl5/1.0.0": {
+        "runtime": {
+          "Malmoinl5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Malmoinl5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
